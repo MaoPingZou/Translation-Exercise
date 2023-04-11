@@ -13,5 +13,5 @@
 > - ...
 
 ## 目录
-- [Learn in public（公开学习）](https://github.com/RunJavaCode/Translation-Exercise/blob/master/%E3%80%8A%E5%85%AC%E5%BC%80%E5%AD%A6%E4%B9%A0%E3%80%8B.md)
-- [How To Ask Questions The Smart Way（如何用聪明的方式提问）](https://github.com/RunJavaCode/Translation-Exercise/blob/master/%E3%80%8A%E5%A6%82%E4%BD%95%E7%94%A8%E8%81%AA%E6%98%8E%E7%9A%84%E6%96%B9%E5%BC%8F%E6%8F%90%E9%97%AE%E3%80%8B.md)
+- [Learn in public（公开学习）](https://github.com/RunJavaCode/Translation-Exercise/blob/master/Learn%20in%20public%EF%BC%88%E5%85%AC%E5%BC%80%E5%AD%A6%E4%B9%A0%EF%BC%89.md)
+- [How To Ask Questions The Smart Way（如何用聪明的方式提问）](https://github.com/RunJavaCode/Translation-Exercise/blob/master/How%20To%20Ask%20Questions%20The%20Smart%20Way%EF%BC%88%E5%A6%82%E4%BD%95%E7%94%A8%E8%81%AA%E6%98%8E%E7%9A%84%E6%96%B9%E5%BC%8F%E6%8F%90%E9%97%AE%EF%BC%89.md)
