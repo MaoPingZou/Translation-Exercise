@@ -1,4 +1,4 @@
-## How To Ask Questions The Smart Way
+## How To Ask Questions The Smart Way（如何用聪明的方式提问）
 
 > 原文链接：[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
