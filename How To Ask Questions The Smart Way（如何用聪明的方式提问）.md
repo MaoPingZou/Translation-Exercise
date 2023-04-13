@@ -447,14 +447,38 @@ In IRC, it's probably best not to dump a long problem description on the channel
 
 ### As a second step, use project mailing lists
 
+> Me：作为第二步，使用项目邮件列表
+
+> ChatGPT：作为第二步，使用项目邮件列表
+
 When a project has a development mailing list, write to the mailing list, not to individual developers, even if you believe you know who can best answer your question. Check the documentation of the project and its homepage for the address of a project mailing list, and use it. There are several good reasons for this policy:
+
+> Me：当项目有一个开发邮件列表，在邮件列表中提问，而不是向单独的开发者提问，即使你相信你知道哪个开发者能最好的回答你的问题。检查项目的文档，以及它包含项目邮件列表地址的主页，使用它。对于这种政策有好几个理由：
+
+> ChatGPT：当一个项目有一个开发邮件列表时，即使你认为你知道谁可以最好地回答你的问题，也应该写信给邮件列表，而不是个别开发人员。检查项目的文档和主页以获取项目邮件列表的地址，并使用它。这个策略有几个很好的理由：
 
 - Any question good enough to be asked of one developer will also be of value to the whole group. Contrariwise, if you suspect your question is too dumb for a mailing list, it's not an excuse to harass individual developers.
 - Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your questions.
 - Most mailing lists are archived and the archives are indexed by search engines. If you ask your question on-list and it is answered, a future querent could find your question and the answer on the Web instead of asking it again.
 - If certain questions are seen to be asked often, developers can use that information to improve the documentation or the software itself to be less confusing. But if those questions are asked in private, nobody has the complete picture of what questions are asked most often.
 
+> Me：
+> - 任何好到足够要问开发者的问题也将对整个群组有价值。反之，如果你怀疑你的问题对邮件列表来说太愚蠢，它也不是骚扰个人开发人员对接口。
+> - 在邮件列表中提问在开发者中分配负载。个人开发者（尤其当他是项目领导者时）可能太忙了以至于没空回答你的问题。
+> - 大多数邮件列表被归档，并且归档被搜索引擎索引。如果你在清单上提出你的问题并且得到了回答，那么未来的他人的问题可能会在网上找到你的问题和答案，而不是再次问它。
+> - 如果某种问题看起来经常被询问，开发可以使用那些信息去改善文档或者软件本身去减少困惑。但是如果这些问题是在私下问的，没人能知道最常被问到的问题是什么。
+
+> ChatGPT：
+> - 任何一个开发者认为值得回答的问题，也同样对整个团队有价值。相反，如果你认为自己的问题太蠢了而不想在邮件列表中提问，这并不是骚扰个别开发者的借口。
+> - 在邮件列表上提问会将负载分散到所有开发者身上。单独的开发者（尤其是项目负责人）可能太忙了，无法回答你的问题。
+> - 大多数邮件列表都有存档，并且这些存档被搜索引擎索引。如果你在邮件列表上提出问题并得到答案，未来的提问者可以在网上找到你的问题和答案，而不必再次提问。
+> - 如果某些问题被频繁提出，开发者可以利用这些信息改进文档或软件本身，使其更易于理解。但如果这些问题是私下提出的，没有人可以完全了解最常见的问题是什么。
+
 If a project has both a “user” and a “developer” (or “hacker”) mailing list or Web forum, and you are not hacking on the code, ask in the “user” list/forum. Do not assume that you will be welcome on the developer list, where they're likely to experience your question as noise disrupting their developer traffic.
+
+> Me：如果项目既有“用户”又有“开发者”（或“黑客”）邮件列表或者网络论坛，并且你不是编码人员，在“用户”邮件列表或论坛中提问。不要假设你将在开发者邮件列表受到欢迎，在那里他们可能会将你的问题视为干扰其开发人员流量的噪音。
+
+> ChatGPT：如果一个项目有“用户”和“开发者”（或“黑客”）的邮件列表或网络论坛，并且你没有在修改代码，那么请在“用户”列表/论坛中提问。不要假设你会受到开发者列表的欢迎，因为他们可能会认为你的问题会干扰他们的开发者交流。
 
 However, if you are *sure* your question is non-trivial, and you get no answer in the “user” list/forum for several days, try the “developer” one. You would be well advised to lurk there for a few daysor at least review the last few days of archived messages, to learn the local folkways before posting (actually this is good advice on any private or semi-private list).
 
